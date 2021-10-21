@@ -1,1 +1,26 @@
-a
+History of Linux environment
+File system hirarachy
+Basic commands
+Filter commands
+File permissions (sticky bit, ACL permissions)
+User & group management
+Network configuration and troubleshouting
+Booting procedure and kernel parameters
+Job automation
+Remote system adminstartion
+Package management
+Service management
+Server/file system backup
+Servers (Nginx, NFS, DNS)
+Network administration
+log rotation, Nginx proxy, reverse proxy setup, IP-tables
+
+================================================================
+Troubleshouting:
+User login issues, diskspace issues, server & application performance issues
+=================================================================
+
+Shell scripting:
+basic script commands, if else statements, for & while loop
+In deep into scripting examples - (real time scripts for application and server related scripts)
+==================================================================
